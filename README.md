@@ -27,7 +27,6 @@
 ## Table of Contents
 - Overview
 - [Built With](#built-with)
-- [Features](#features)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 
@@ -52,6 +51,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
 - GitHub [@https://github.com/IamMohammedSalman](https://github.com/IamMohammedSalman)
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Twitter [MS Dev](https://twitter.com/MSDev_io)
